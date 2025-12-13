@@ -1,4 +1,4 @@
-# Muyao Niu's weekly AI journel - Week9(11.17 ~ 11.23)
+# Muyao Niu's weekly AI journel - Week10(11.17 ~ 11.23)
 
 My journel might be kinda boring, for the sack that I have already found my pace of AI usage, so there might be some repeating.
 
